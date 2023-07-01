@@ -4,7 +4,7 @@ This is an update to the readme.md file
 
 ```mermaid
 graph TD;
-    A-->B;
+    A[CIMP ODS]-->B(CDM);
     A-->C;
     B-->D;
     C-->D;
